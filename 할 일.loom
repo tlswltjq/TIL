@@ -1,0 +1,336 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "180.645751953125px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "할 일",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "우선순위",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "172.1796875px",
+        "type": "creation-time",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "시작일",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": true,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5634b182-dba4-4300-a6fe-e442d7791de3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "비고",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "a8377573-661b-4be3-a542-58795ef083ef",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "84.65625px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "확인",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "eb43503d-7f22-47ab-8e0d-64c255d651c9",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T08:02:58.718Z",
+        "lastEditedDateTime": "2024-03-29T08:11:41.298Z",
+        "cells": [
+          {
+            "id": "8e03fadd-e8a8-49c4-a4ca-c25ed1f62520",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "옵시디언 세팅",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ee121d50-d820-4312-bb00-43b05d26e885",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b492d00f-24f1-4269-b700-6b88497b992e",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cc31aa34-8ed6-4a29-a9f4-3585facca43d",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "616daf6e-8090-414b-a617-d6d1c8110441",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eda18082-0623-4065-bd43-3f42549b4f0f",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4dda6b8f-9b19-456d-b582-3ba569393fe3",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T08:10:46.018Z",
+        "lastEditedDateTime": "2024-03-29T08:16:35.385Z",
+        "cells": [
+          {
+            "id": "6bd41b04-9b6a-4929-a91f-ea3cf09a1aa9",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "HTTP 스터디 준비",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe27d3d6-65d5-4e45-9d17-ea557367a030",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f6f5f13e-cf70-431e-ba93-3c4663ecf7e8",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94027375-05ce-4a3e-8b93-f29b442f952c",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6bff1279-7527-44e2-8ffd-fcc3ee606fc8",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f56de104-8c06-47d2-9164-cb46e33ab69d",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "aec8b5e7-b967-413f-93f2-2d067c110da8",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T08:12:55.698Z",
+        "lastEditedDateTime": "2024-03-29T08:16:44.633Z",
+        "cells": [
+          {
+            "id": "38eaab94-9a25-4e0e-bf01-3b53eff11a77",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "프로젝트 API리스트업하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5ac6ad30-ad9d-4328-9210-2fe0cafdf672",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d713e9dd-7927-4b31-b59e-9c3ed4c2b839",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8364d20-7620-44a5-bfbc-51b1c7fb5da0",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "adf6b4be-de2b-492e-9ae7-5aa9a66048af",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ec89b5f5-7d46-4674-ae91-469e732db49d",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0134e9da-50f0-4383-bfb7-51e405f7728f",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T08:13:32.709Z",
+        "lastEditedDateTime": "2024-03-29T08:13:32.709Z",
+        "cells": [
+          {
+            "id": "fc3044a2-c4b6-44ad-819c-5ecb2a97ede3",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94847c4f-6e39-49df-9e5d-bea11efbbb68",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92ecb719-a7ca-4c3a-9160-f3792a27d8c5",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "50a01196-0522-4500-a81c-754bbb7f2242",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f8257e1-e0a9-4aa9-877c-4faacd503c2f",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "78bf4431-135c-45cc-9289-e756538906cd",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
