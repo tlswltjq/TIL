@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "할 일": "datetime"
+    "할 일": "datetime",
+    "ㅁㄴㅇ": "multitext"
   }
 }

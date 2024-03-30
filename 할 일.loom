@@ -27,10 +27,10 @@
       },
       {
         "id": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-        "sortDir": "default",
+        "sortDir": "asc",
         "isVisible": true,
         "width": "140px",
-        "type": "text",
+        "type": "number",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
@@ -161,9 +161,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "ee121d50-d820-4312-bb00-43b05d26e885",
+            "id": "d50ddbf0-7ade-4dca-8213-19f68c681af0",
             "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-            "content": "0",
+            "value": 0,
             "hasValidFrontmatter": null
           },
           {
@@ -196,7 +196,7 @@
         "index": 1,
         "sourceId": null,
         "creationDateTime": "2024-03-29T08:10:46.018Z",
-        "lastEditedDateTime": "2024-03-29T08:16:35.385Z",
+        "lastEditedDateTime": "2024-03-29T17:19:37.918Z",
         "cells": [
           {
             "id": "6bd41b04-9b6a-4929-a91f-ea3cf09a1aa9",
@@ -205,9 +205,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "fe27d3d6-65d5-4e45-9d17-ea557367a030",
+            "id": "6a02427b-3e02-4a32-97e4-800683ca38ae",
             "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-            "content": "1",
+            "value": 1,
             "hasValidFrontmatter": null
           },
           {
@@ -230,7 +230,7 @@
           {
             "id": "f56de104-8c06-47d2-9164-cb46e33ab69d",
             "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           }
         ]
@@ -249,9 +249,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "5ac6ad30-ad9d-4328-9210-2fe0cafdf672",
+            "id": "ac892e30-5c04-4287-b6e4-2b538e2ae876",
             "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-            "content": "1",
+            "value": 1,
             "hasValidFrontmatter": null
           },
           {
@@ -284,18 +284,18 @@
         "index": 3,
         "sourceId": null,
         "creationDateTime": "2024-03-29T08:13:32.709Z",
-        "lastEditedDateTime": "2024-03-29T08:13:32.709Z",
+        "lastEditedDateTime": "2024-03-30T08:14:45.747Z",
         "cells": [
           {
             "id": "fc3044a2-c4b6-44ad-819c-5ecb2a97ede3",
             "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
-            "content": "",
+            "content": "토프링 스터디 준비",
             "hasValidFrontmatter": null
           },
           {
-            "id": "94847c4f-6e39-49df-9e5d-bea11efbbb68",
+            "id": "aba458ca-76f9-482d-8553-32fbe4d8759b",
             "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-            "content": "",
+            "value": 2,
             "hasValidFrontmatter": null
           },
           {
@@ -324,7 +324,17 @@
         ]
       }
     ],
-    "filters": [],
+    "filters": [
+      {
+        "id": "79a4aa80-13e0-4cbd-b418-2e6a60b5a520",
+        "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "checkbox",
+        "condition": "is",
+        "value": false
+      }
+    ],
     "sources": [],
     "settings": {
       "numFrozenColumns": 1,

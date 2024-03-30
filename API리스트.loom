@@ -1,0 +1,1093 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "분류",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "20e3c0b6-d493-445b-9501-abf0cd234412",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "메서드",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "content": "POST",
+            "color": "yellow"
+          },
+          {
+            "id": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "content": "GET",
+            "color": "light gray"
+          },
+          {
+            "id": "a02b189a-8270-476e-bed3-04300164e673",
+            "content": "DELETE",
+            "color": "pink"
+          },
+          {
+            "id": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
+            "content": "PUT",
+            "color": "pink"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "405.50299072265625px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "URL",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "590386b0-b55b-4d81-938b-a375048a5b64",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "191.61732482910156px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "설명",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "187.62921142578125px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "메모",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "f30a98c6-b85b-46f7-afb3-3c7807a1a466",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:58:55.296Z",
+        "lastEditedDateTime": "2024-03-30T08:59:22.718Z",
+        "cells": [
+          {
+            "id": "520a9fe3-39c2-4715-99e8-f4cc1d0f7af7",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5bb96af6-d1a4-4859-9f44-83ea1619bb54",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "25840d4e-1d1b-466c-96c5-639f6bbbcf69",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e26b8ec1-d578-4bc5-bc58-acb176dc3e44",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "12e27ed4-413d-42c3-8622-0f8299610777",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "유저정보는 헤더에 토큰으로",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "57bd5a88-a679-47d3-917c-7febb92ea9f3",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:02:26.577Z",
+        "lastEditedDateTime": "2024-03-29T20:06:56.521Z",
+        "cells": [
+          {
+            "id": "cd144b66-d4c7-4ed1-a5e3-067bec5414a9",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "683d9c1b-35fb-47e6-be7c-041bfb252412",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7c4cee15-0c35-4127-a71e-29f035040034",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/signup",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2923639e-0f0b-485a-9d02-f50c147c8621",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "회원가입",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "51bc84bb-a70d-4aff-ac82-c16495ac9fb0",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eb970b10-522d-491b-a03b-8c21b41e0be3",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:05:22.157Z",
+        "lastEditedDateTime": "2024-03-29T20:07:37.629Z",
+        "cells": [
+          {
+            "id": "50f3648a-2d7a-4b75-9c76-a6acc413185f",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1161f3d8-d6fe-4d41-ae7d-649d79a9694e",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2262a51f-b689-4ac2-87a6-db93c9fb7474",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/login",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fbea2c2e-dc87-409c-9890-b66a7843db25",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "로그인",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "985015ef-1e31-47cd-9741-fb33f50d689c",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bda2d71b-7f76-4465-a47d-eacb53126b17",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:23.746Z",
+        "lastEditedDateTime": "2024-03-29T20:09:45.233Z",
+        "cells": [
+          {
+            "id": "5def3783-b7a9-41c5-9d69-b2fad44658f1",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "10f76812-98ed-4874-96b6-d4dd10893bea",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53a1067b-d6af-4bd1-9586-cd4882159f5e",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/logout",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "adde42a2-bb58-419b-8f79-4499a57213b8",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "로그아웃",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b6010f42-0b34-4784-b94e-e4e5a7ee35d9",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "910957db-9806-49cb-b948-4c74aeaec57c",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:47.205Z",
+        "lastEditedDateTime": "2024-03-30T08:16:38.558Z",
+        "cells": [
+          {
+            "id": "733de555-fd66-41d1-bc56-3345a5cd74b0",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "users",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "acc802d3-0fc8-481b-a915-21dc49e82a4a",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe8ee5a2-ab16-41dd-bc0f-c40329e005fb",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/users/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7e994f55-90cf-42b9-b941-270ac39eafbb",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "유저정보",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7ca353a-ddaf-4185-9334-7b9e34ad96c7",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cbd43741-f5db-4d67-a4dd-de258e087a65",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:52.844Z",
+        "lastEditedDateTime": "2024-03-29T20:40:07.815Z",
+        "cells": [
+          {
+            "id": "fee25ee4-97c9-4f71-80a6-f8d66a52e34c",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ec6155a-b56f-44bc-9aad-4db362ec2588",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ad9f8d6-a734-476d-9725-20df97b102ce",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/{user_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9fd4fc7a-429b-4127-a86f-8d00b736c0f5",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "유저 삭제",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d77b2913-ea54-4c68-8a91-b27f9342c62f",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "97870de7-264c-4bdf-95a6-733a5083d849",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:53.189Z",
+        "lastEditedDateTime": "2024-03-30T08:17:26.563Z",
+        "cells": [
+          {
+            "id": "85737100-5468-47f8-9553-e36add7e2b65",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff0d45fc-376a-40cc-ba55-7a23e2da271b",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "985ab473-b64c-452b-b849-2fe5310cafd8",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/users/get_nearby-friends?distance={distance}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7198f5ad-4e6c-4b9c-bf36-9bf92248ec0a",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "주변에 있는 친구목록 받아옴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b88fe0a1-2c08-45d5-867b-3b7eebd6cad2",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1b95e9f5-7ce6-4948-ad3d-e1b77011c93e",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:54.147Z",
+        "lastEditedDateTime": "2024-03-30T08:17:19.463Z",
+        "cells": [
+          {
+            "id": "b3343f35-752e-4f0c-91e2-d10c2dad6c64",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa45e5e7-ce8a-430b-b108-f98ba762158d",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dbcbc4a5-ebfe-4e1e-8383-8258493ef61f",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/users/get_nearby_place?distance={distance}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "388e33df-6dbb-4989-a668-5cac7c21a826",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "주변의 장소목록을 받아옴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b50dfdcd-7e18-4f0c-b975-c7081f136177",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bb435e88-0a2c-462b-802f-a94b9ff66cad",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:54.757Z",
+        "lastEditedDateTime": "2024-03-30T08:08:19.206Z",
+        "cells": [
+          {
+            "id": "65216ff9-6cbe-4096-b248-dab536e96eeb",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "places",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d9cd9161-dbea-453e-ae29-e3b9ea8f096e",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9320d677-42d7-4930-9e00-87696d71c2ae",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/places/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9885e57-ac68-4956-86a4-86102cccf098",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "장소 등록",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe8adb1a-6643-48e2-a67d-3781b08fea15",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "20a7203f-2063-4a75-b739-4bfaa1b6e1e7",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-03-29T20:07:55.347Z",
+        "lastEditedDateTime": "2024-03-30T08:18:31.064Z",
+        "cells": [
+          {
+            "id": "8c5a0bdc-1130-48be-89e5-5f5eeccb529c",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e536f6bb-4033-4f6a-acc8-ad9f56b148d1",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e172cfe-ecdc-4aeb-bf32-72c5bf44cf38",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/places/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d46e2371-1724-4ab2-b26d-bc619173a020",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "유저가 등록한 장소목록 받아옴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "08afd24d-9fe2-45aa-97f6-4afe5b91832b",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e529d8f7-ee38-4ddf-ac9d-ec05dc040da3",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:35.468Z",
+        "lastEditedDateTime": "2024-03-30T08:08:25.618Z",
+        "cells": [
+          {
+            "id": "78b1990a-be7a-4dd5-9db0-194794a7673d",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "abdf390b-f576-41d7-98da-910458fdaa65",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c4a2c3d-a37e-48e9-812d-3abef38d45ef",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/places/{place_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5185d569-778a-4687-bd83-cb08be66283e",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "장소 수정",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ee8cfc2-f81a-4ff7-9d29-2db64f180efa",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8eee5435-b584-47fd-a5ec-8031c8d4bca5",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:35.944Z",
+        "lastEditedDateTime": "2024-03-30T08:09:25.861Z",
+        "cells": [
+          {
+            "id": "1da81249-cc96-4dbc-a120-17ebf2d89bb2",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b6569e06-acf6-43d2-9b3d-09dfb4a7cf8a",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d9f47950-14ed-4ce5-b26a-b2b62dbcdbc4",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/place/{place_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1fdeaadd-c10c-4fba-83c8-68e0410d55fc",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "장소 삭제",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9bc1f81a-2b4d-4e37-ac57-f17cf3bfe005",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "537281e3-ab2e-4bec-a169-3468791a50d7",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:36.469Z",
+        "lastEditedDateTime": "2024-03-30T08:21:02.085Z",
+        "cells": [
+          {
+            "id": "21998372-d6e3-4287-b907-e93cf87fa8bc",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "alarms",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "24489b29-fa14-4cb9-9140-314dbdfd8afd",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "30e1033a-144d-4a54-9c13-186501f3c24f",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/alarms/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5b77fd9-a607-490c-8546-b51ad2f02d70",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "알람 등록",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fb5297d6-6f59-41cc-ba9f-66d72bd11754",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1d70057d-47cc-4608-9963-f328e4bddca4",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:36.688Z",
+        "lastEditedDateTime": "2024-03-30T08:21:38.418Z",
+        "cells": [
+          {
+            "id": "162cd0b4-9239-46e6-9554-3e31610c286b",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b1b82ef6-80d9-4514-9d85-f99ed61bdb20",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7eecef15-8799-469c-a0c5-0860a6090db2",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/alarms/{alarm_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f6d644cf-6151-49df-8f76-706b0547b477",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "알람 삭제",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "21e6a7fb-b14d-4462-8542-eb68ee7f80a2",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "01b010e5-4307-4137-a3db-1ce9bf8c46d2",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:36.906Z",
+        "lastEditedDateTime": "2024-03-30T08:21:31.907Z",
+        "cells": [
+          {
+            "id": "7e793879-4a30-4dee-b7e1-6bc890c36f6d",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "87d745ad-e032-4eeb-8ab2-ab5096ca78bc",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38750bdc-93a8-4034-b300-b81077c0ccd2",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/alarms/{alarm_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d80b2d2-ec05-4d44-bf82-8c042ad34bc9",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "알람 수정",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85926c69-aa09-4565-94b6-02aed11a06d2",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fe56ed1b-c029-441f-9439-6181e0493776",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:02:37.119Z",
+        "lastEditedDateTime": "2024-03-30T09:00:36.749Z",
+        "cells": [
+          {
+            "id": "c15006bb-a265-443b-9e93-c60a3e9b4f94",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d18a862-42ed-4981-806d-a1ee83be5763",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "271ac21b-8e2b-4772-9f43-516dd0f1b37e",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/alarms/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a9e06f7-6206-4781-af55-04064d0934d1",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "알람 리스트 받아옴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1e98ae23-d97e-424a-83e8-840a0f9237a5",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "인증정보 어드민이면 다 가져오는걸로",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "674d6a9e-fd83-4ec4-b5a8-1cd7aa7bad32",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T08:20:52.209Z",
+        "lastEditedDateTime": "2024-03-30T09:16:39.284Z",
+        "cells": [
+          {
+            "id": "8ade473e-af5f-4cd1-a3d4-8b144726cb9a",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "groups",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2022ffb4-a86b-492c-9456-61b7b6ad6d34",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85533505-92f5-4353-ba90-dd85b4b5424d",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "30ff9e19-64be-44d6-891c-d31585e7d862",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "새로운 그룹 생성",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9c9a0178-3627-4d52-89bd-11845dd21de8",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "44cab086-1e20-4623-9e47-65e69c1f218d",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:16:48.639Z",
+        "lastEditedDateTime": "2024-03-30T09:17:21.359Z",
+        "cells": [
+          {
+            "id": "ef14d189-ff3a-47ec-add2-a24a3642ae5d",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b13e39a-af03-4820-9997-e044f9eb457c",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4b69db3-f273-43ea-95d9-19c03ee5fc1e",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "01d005aa-094c-4a76-a414-70efb0079752",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹 수정",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e44598c6-1b0a-4a01-89d1-29bb6713ae08",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6f808314-fe91-44c0-9856-e96338724266",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:17:22.642Z",
+        "lastEditedDateTime": "2024-03-30T09:18:44.617Z",
+        "cells": [
+          {
+            "id": "82206caf-2df4-4dfb-80bf-b8f94a013a96",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b4a043de-00a5-43e4-9fb3-ce3e3c6e5fde",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e01f6b9-8e3e-4385-9bd5-662ac3d94784",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bd596982-90b4-4bb8-925f-6a433c165db5",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹 삭제",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89979f89-0b5f-4d59-bcf9-3b6be64d54a1",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "28c89cc1-ffcf-4206-be03-7bc05d363af4",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:17:55.465Z",
+        "lastEditedDateTime": "2024-03-30T09:19:56.204Z",
+        "cells": [
+          {
+            "id": "ed18d373-a26c-49ec-b56b-f4a653d3768c",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eaa756b5-40c9-4511-bd0c-6f3d0f504640",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "879f35a8-628f-4452-9fc3-2d0addf7f1f4",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "298e3f5c-e1f1-41da-8f05-7b027071a8d1",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹 정보 반환",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d12c9682-9c34-4c63-97aa-3d6b198cb1c3",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9fcd90b6-1fbb-465f-a8ee-1c737f31af1f",
+        "index": 20,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:20:00.264Z",
+        "lastEditedDateTime": "2024-03-30T09:20:32.684Z",
+        "cells": [
+          {
+            "id": "c6c04958-5f48-4356-9e5a-89a4057517a6",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0c0b20da-70a5-4d78-a160-e103604662b7",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6179743d-7364-46dc-b361-c6bec877c379",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}/members",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8fe6155b-18b9-4451-8454-375dd6c0b395",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹원 리스트 반환",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ddd7084-d9b1-4967-9841-bd77d1d9cc8a",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ee65f9a5-5b95-43aa-b41b-f53e1bd18ac0",
+        "index": 21,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:20:33.089Z",
+        "lastEditedDateTime": "2024-03-30T09:21:46.990Z",
+        "cells": [
+          {
+            "id": "79458f0d-c539-4736-aa67-6c7718a6c45b",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb67ec21-f28e-43cd-82db-d02154997b67",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5ee0528a-01b2-44d3-964e-44b113661d10",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}/{user_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c84b57d-19c2-4360-aac1-abc4d9a2ac7f",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹 참여",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b51fca64-909d-4327-871e-76b55be710c7",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ee89ef1c-b43f-4332-af83-100739488150",
+        "index": 22,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:20:50.990Z",
+        "lastEditedDateTime": "2024-03-30T09:25:30.407Z",
+        "cells": [
+          {
+            "id": "71270417-f032-49ba-8374-5738d3d84400",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cc3cad37-84dc-46ee-b413-74032168a433",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5cebb3cf-794f-446e-82ed-a3ecd8acbd6c",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/groups/{group_id}/{user_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4555bf0-5296-4700-bed4-c6c50791d64c",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "그룹 탈퇴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c91dcea3-5701-43cd-8c67-b5549513bbb9",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cd9e347d-28b5-4abf-a048-d55c85a4a40e",
+        "index": 23,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:25:18.706Z",
+        "lastEditedDateTime": "2024-03-30T09:25:18.706Z",
+        "cells": [
+          {
+            "id": "63274d69-6547-4ffb-9788-822577225df6",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e7333b06-916c-4a0a-b116-e33d4cd0b741",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "609fc219-a4bf-4523-a9e6-711be7e7e57c",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "58e4a3a3-7b7c-4d25-8eb3-7b5f6833300d",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6c371c5d-4c64-401c-a6ee-a5966012125c",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
