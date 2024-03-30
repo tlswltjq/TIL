@@ -188,12 +188,12 @@
         "index": 1,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:02:26.577Z",
-        "lastEditedDateTime": "2024-03-29T20:06:56.521Z",
+        "lastEditedDateTime": "2024-03-30T09:42:41.474Z",
         "cells": [
           {
             "id": "cd144b66-d4c7-4ed1-a5e3-067bec5414a9",
             "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
-            "content": "",
+            "content": "auth",
             "hasValidFrontmatter": null
           },
           {
@@ -205,7 +205,7 @@
           {
             "id": "7c4cee15-0c35-4127-a71e-29f035040034",
             "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "/api/signup",
+            "content": "/api/auth/signup",
             "hasValidFrontmatter": null
           },
           {
@@ -227,7 +227,7 @@
         "index": 2,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:05:22.157Z",
-        "lastEditedDateTime": "2024-03-29T20:07:37.629Z",
+        "lastEditedDateTime": "2024-03-30T09:42:44.376Z",
         "cells": [
           {
             "id": "50f3648a-2d7a-4b75-9c76-a6acc413185f",
@@ -244,7 +244,7 @@
           {
             "id": "2262a51f-b689-4ac2-87a6-db93c9fb7474",
             "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "/api/login",
+            "content": "/api/auth/login",
             "hasValidFrontmatter": null
           },
           {
@@ -266,7 +266,7 @@
         "index": 3,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:23.746Z",
-        "lastEditedDateTime": "2024-03-29T20:09:45.233Z",
+        "lastEditedDateTime": "2024-03-30T09:42:47.508Z",
         "cells": [
           {
             "id": "5def3783-b7a9-41c5-9d69-b2fad44658f1",
@@ -283,7 +283,7 @@
           {
             "id": "53a1067b-d6af-4bd1-9586-cd4882159f5e",
             "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "/api/logout",
+            "content": "/api/auth/logout",
             "hasValidFrontmatter": null
           },
           {
@@ -379,8 +379,47 @@
         ]
       },
       {
-        "id": "97870de7-264c-4bdf-95a6-733a5083d849",
+        "id": "1177d641-2f58-45dd-b98c-1c778d4ce690",
         "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:41:08.210Z",
+        "lastEditedDateTime": "2024-03-30T09:42:08.328Z",
+        "cells": [
+          {
+            "id": "92f46ec5-d5a0-4251-80ba-6d6b43c3d542",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94dedb55-6dd3-48b7-9998-28f2cc65f179",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "33d9cad7-2205-4fed-928f-7c6a5ae076ca",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/users/",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "923de515-3520-4bfa-9e29-ef5665e45a4b",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "유저 정보 수정",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2aeb38f6-dd3e-4330-ba59-c7854d01d180",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "97870de7-264c-4bdf-95a6-733a5083d849",
+        "index": 7,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:53.189Z",
         "lastEditedDateTime": "2024-03-30T08:17:26.563Z",
@@ -419,7 +458,7 @@
       },
       {
         "id": "1b95e9f5-7ce6-4948-ad3d-e1b77011c93e",
-        "index": 7,
+        "index": 8,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:54.147Z",
         "lastEditedDateTime": "2024-03-30T08:17:19.463Z",
@@ -457,8 +496,47 @@
         ]
       },
       {
+        "id": "03dd3208-90e1-45e1-ace5-ba3a54a07252",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T12:19:54.624Z",
+        "lastEditedDateTime": "2024-03-30T12:34:48.198Z",
+        "cells": [
+          {
+            "id": "650cc3d2-5056-4cdf-a60c-8bb6cfb22d17",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "40ce4a7f-a08e-4ad4-b450-c81a17949eb2",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c373f134-d0f9-4e98-b001-26606629dab4",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e604ca3e-3595-4fad-9476-6accff028e40",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "회원정보 수정 삭제",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a827c8f-b0be-4353-a817-44a9cd38bec7",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
         "id": "bb435e88-0a2c-462b-802f-a94b9ff66cad",
-        "index": 8,
+        "index": 10,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:54.757Z",
         "lastEditedDateTime": "2024-03-30T08:08:19.206Z",
@@ -497,7 +575,7 @@
       },
       {
         "id": "20a7203f-2063-4a75-b739-4bfaa1b6e1e7",
-        "index": 9,
+        "index": 11,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:55.347Z",
         "lastEditedDateTime": "2024-03-30T08:18:31.064Z",
@@ -536,7 +614,7 @@
       },
       {
         "id": "e529d8f7-ee38-4ddf-ac9d-ec05dc040da3",
-        "index": 10,
+        "index": 12,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:35.468Z",
         "lastEditedDateTime": "2024-03-30T08:08:25.618Z",
@@ -575,7 +653,7 @@
       },
       {
         "id": "8eee5435-b584-47fd-a5ec-8031c8d4bca5",
-        "index": 11,
+        "index": 13,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:35.944Z",
         "lastEditedDateTime": "2024-03-30T08:09:25.861Z",
@@ -614,7 +692,7 @@
       },
       {
         "id": "537281e3-ab2e-4bec-a169-3468791a50d7",
-        "index": 12,
+        "index": 14,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.469Z",
         "lastEditedDateTime": "2024-03-30T08:21:02.085Z",
@@ -653,7 +731,7 @@
       },
       {
         "id": "1d70057d-47cc-4608-9963-f328e4bddca4",
-        "index": 13,
+        "index": 15,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.688Z",
         "lastEditedDateTime": "2024-03-30T08:21:38.418Z",
@@ -692,7 +770,7 @@
       },
       {
         "id": "01b010e5-4307-4137-a3db-1ce9bf8c46d2",
-        "index": 14,
+        "index": 16,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.906Z",
         "lastEditedDateTime": "2024-03-30T08:21:31.907Z",
@@ -731,7 +809,7 @@
       },
       {
         "id": "fe56ed1b-c029-441f-9439-6181e0493776",
-        "index": 15,
+        "index": 17,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:37.119Z",
         "lastEditedDateTime": "2024-03-30T09:00:36.749Z",
@@ -770,7 +848,7 @@
       },
       {
         "id": "674d6a9e-fd83-4ec4-b5a8-1cd7aa7bad32",
-        "index": 16,
+        "index": 18,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:20:52.209Z",
         "lastEditedDateTime": "2024-03-30T09:16:39.284Z",
@@ -809,7 +887,7 @@
       },
       {
         "id": "44cab086-1e20-4623-9e47-65e69c1f218d",
-        "index": 17,
+        "index": 19,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:16:48.639Z",
         "lastEditedDateTime": "2024-03-30T09:17:21.359Z",
@@ -848,7 +926,7 @@
       },
       {
         "id": "6f808314-fe91-44c0-9856-e96338724266",
-        "index": 18,
+        "index": 20,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:17:22.642Z",
         "lastEditedDateTime": "2024-03-30T09:18:44.617Z",
@@ -887,7 +965,7 @@
       },
       {
         "id": "28c89cc1-ffcf-4206-be03-7bc05d363af4",
-        "index": 19,
+        "index": 21,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:17:55.465Z",
         "lastEditedDateTime": "2024-03-30T09:19:56.204Z",
@@ -926,7 +1004,7 @@
       },
       {
         "id": "9fcd90b6-1fbb-465f-a8ee-1c737f31af1f",
-        "index": 20,
+        "index": 22,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:00.264Z",
         "lastEditedDateTime": "2024-03-30T09:20:32.684Z",
@@ -965,7 +1043,7 @@
       },
       {
         "id": "ee65f9a5-5b95-43aa-b41b-f53e1bd18ac0",
-        "index": 21,
+        "index": 23,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:33.089Z",
         "lastEditedDateTime": "2024-03-30T09:21:46.990Z",
@@ -1004,7 +1082,7 @@
       },
       {
         "id": "ee89ef1c-b43f-4332-af83-100739488150",
-        "index": 22,
+        "index": 24,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:50.990Z",
         "lastEditedDateTime": "2024-03-30T09:25:30.407Z",
@@ -1043,37 +1121,232 @@
       },
       {
         "id": "cd9e347d-28b5-4abf-a048-d55c85a4a40e",
-        "index": 23,
+        "index": 25,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:25:18.706Z",
-        "lastEditedDateTime": "2024-03-30T09:25:18.706Z",
+        "lastEditedDateTime": "2024-03-30T09:32:47.467Z",
         "cells": [
           {
             "id": "63274d69-6547-4ffb-9788-822577225df6",
             "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
-            "content": "",
+            "content": "chat",
             "hasValidFrontmatter": null
           },
           {
             "id": "e7333b06-916c-4a0a-b116-e33d4cd0b741",
             "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
-            "tagId": null,
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
             "hasValidFrontmatter": null
           },
           {
             "id": "609fc219-a4bf-4523-a9e6-711be7e7e57c",
             "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "",
+            "content": "/api/chat/messages",
             "hasValidFrontmatter": null
           },
           {
             "id": "58e4a3a3-7b7c-4d25-8eb3-7b5f6833300d",
             "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
-            "content": "",
+            "content": "채팅 메시지 전송",
             "hasValidFrontmatter": null
           },
           {
             "id": "6c371c5d-4c64-401c-a6ee-a5966012125c",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7daf53fd-2e40-4342-95f3-e3c53dcbcf66",
+        "index": 26,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:32:48.127Z",
+        "lastEditedDateTime": "2024-03-30T09:35:31.341Z",
+        "cells": [
+          {
+            "id": "e2984f3b-94fd-4406-98e7-3caa85d6b78b",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fb60c82c-cc58-47cd-bf1e-523c19da63a5",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa6923ec-1808-42d0-b94b-54b30d8862a7",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/chat/messages?chatroom_id ={chatroom_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dce4d1f8-f7d7-4a4b-b122-eb018bf69858",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "채팅방의 메시지를 받아옴",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c63807a1-1bb5-4bda-8d8e-6a1c61ecbae6",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "06e4e8c9-d7c3-4032-8d6b-03b9e3f49eec",
+        "index": 27,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:35:47.286Z",
+        "lastEditedDateTime": "2024-03-30T09:36:34.709Z",
+        "cells": [
+          {
+            "id": "df16ee54-3fb7-40d5-98d2-26b787ec96b7",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9974b49-6913-49d6-8133-77b2b7c04c9c",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "7d58b3c0-328a-4fe6-be56-02146a4cbc99",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0f507849-a050-414d-8195-a89393604c8c",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/chat/chatroom",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7af0e7fd-1959-4674-81a8-71f295c7a268",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "새 채팅방 개설",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fbf7a615-3888-4674-b1cd-890fdbe28d3f",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a78940fc-b1b4-476c-af0b-88b62cc28fce",
+        "index": 28,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:36:35.708Z",
+        "lastEditedDateTime": "2024-03-30T09:38:52.851Z",
+        "cells": [
+          {
+            "id": "1d2172f1-168e-4aff-bb7f-9ebbac565ff7",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7d3288b4-b0a6-49dc-b40a-0815a5d232ec",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "acbbd3af-d465-4251-a5e3-eb9cb9f163db",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cd3a4c48-d183-491b-ba63-4687849319be",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/chat/chatroom",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b2191bc9-6fb8-4d4b-b115-a1b70607cdff",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "유저가 속한 채팅방 리스트 반환",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f7477605-01b0-4639-b852-5f3def6e1b19",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c6389ecb-6ee3-4204-af60-05ca4e620831",
+        "index": 29,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:37:55.344Z",
+        "lastEditedDateTime": "2024-03-30T09:39:09.196Z",
+        "cells": [
+          {
+            "id": "6d34302b-44d3-413d-968f-5d2da0a429ee",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "427e8cc7-16b3-4f52-a938-a08e39a6d0c0",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "42956941-57d8-4f8b-82ee-a2b039cdde5a",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "/api/chat/\bchatroom/{chatroom_id}",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e7a0a0d4-1a53-4afb-a057-db739126efe0",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "채팅방 나가기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f07b5ae0-2a7c-4ec2-ab59-8714189fd195",
+            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8d490de8-8a8b-42e7-9b04-b40400aa7a5b",
+        "index": 30,
+        "sourceId": null,
+        "creationDateTime": "2024-03-30T09:39:11.406Z",
+        "lastEditedDateTime": "2024-03-30T09:39:11.406Z",
+        "cells": [
+          {
+            "id": "a6c9fc0c-4abd-4663-a796-81896f69d687",
+            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ee4ed022-2095-4c63-8032-f7b2f92a7fa7",
+            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f09bdbd2-8319-4570-9d83-d77077a2c30b",
+            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "99510242-a458-4ecb-8944-d0379e1276c0",
+            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a89bb17-5a79-4554-b5ea-30f8d3090b5c",
             "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
             "content": "",
             "hasValidFrontmatter": null
@@ -1085,7 +1358,7 @@
     "sources": [],
     "settings": {
       "numFrozenColumns": 1,
-      "showCalculationRow": true
+      "showCalculationRow": false
     },
     "externalRowOrder": []
   },
