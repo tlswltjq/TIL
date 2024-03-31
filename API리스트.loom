@@ -122,7 +122,7 @@
         "id": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
         "sortDir": "default",
         "isVisible": true,
-        "width": "187.62921142578125px",
+        "width": "243.55287170410156px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
@@ -1276,50 +1276,11 @@
         ]
       },
       {
-        "id": "c6389ecb-6ee3-4204-af60-05ca4e620831",
+        "id": "8d490de8-8a8b-42e7-9b04-b40400aa7a5b",
         "index": 29,
         "sourceId": null,
-        "creationDateTime": "2024-03-30T09:37:55.344Z",
-        "lastEditedDateTime": "2024-03-30T09:39:09.196Z",
-        "cells": [
-          {
-            "id": "6d34302b-44d3-413d-968f-5d2da0a429ee",
-            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "427e8cc7-16b3-4f52-a938-a08e39a6d0c0",
-            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
-            "tagId": "a02b189a-8270-476e-bed3-04300164e673",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "42956941-57d8-4f8b-82ee-a2b039cdde5a",
-            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "/api/chat/\bchatroom/{chatroom_id}",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "e7a0a0d4-1a53-4afb-a057-db739126efe0",
-            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
-            "content": "채팅방 나가기",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "f07b5ae0-2a7c-4ec2-ab59-8714189fd195",
-            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
-            "content": "",
-            "hasValidFrontmatter": null
-          }
-        ]
-      },
-      {
-        "id": "8d490de8-8a8b-42e7-9b04-b40400aa7a5b",
-        "index": 30,
-        "sourceId": null,
         "creationDateTime": "2024-03-30T09:39:11.406Z",
-        "lastEditedDateTime": "2024-03-30T09:39:11.406Z",
+        "lastEditedDateTime": "2024-03-30T12:42:08.816Z",
         "cells": [
           {
             "id": "a6c9fc0c-4abd-4663-a796-81896f69d687",
@@ -1330,19 +1291,19 @@
           {
             "id": "ee4ed022-2095-4c63-8032-f7b2f92a7fa7",
             "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
-            "tagId": null,
+            "tagId": "d1e426eb-b40c-45bc-9888-01fcb95324a9",
             "hasValidFrontmatter": null
           },
           {
             "id": "f09bdbd2-8319-4570-9d83-d77077a2c30b",
             "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "",
+            "content": "/api/chat/chatroom/{chatroom_id}",
             "hasValidFrontmatter": null
           },
           {
             "id": "99510242-a458-4ecb-8944-d0379e1276c0",
             "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
-            "content": "",
+            "content": "채팅방 제목 수정",
             "hasValidFrontmatter": null
           },
           {
