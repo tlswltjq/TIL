@@ -496,47 +496,8 @@
         ]
       },
       {
-        "id": "03dd3208-90e1-45e1-ace5-ba3a54a07252",
-        "index": 9,
-        "sourceId": null,
-        "creationDateTime": "2024-03-30T12:19:54.624Z",
-        "lastEditedDateTime": "2024-03-30T12:34:48.198Z",
-        "cells": [
-          {
-            "id": "650cc3d2-5056-4cdf-a60c-8bb6cfb22d17",
-            "columnId": "f3ad7e27-ef28-4bea-8112-2dacfe0db81c",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "40ce4a7f-a08e-4ad4-b450-c81a17949eb2",
-            "columnId": "20e3c0b6-d493-445b-9501-abf0cd234412",
-            "tagId": null,
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "c373f134-d0f9-4e98-b001-26606629dab4",
-            "columnId": "df899095-d23a-4b03-b0ef-d714df4ec74d",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "e604ca3e-3595-4fad-9476-6accff028e40",
-            "columnId": "590386b0-b55b-4d81-938b-a375048a5b64",
-            "content": "회원정보 수정 삭제",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "7a827c8f-b0be-4353-a817-44a9cd38bec7",
-            "columnId": "b0ffe71e-5a59-451f-bbd4-f9cdf32c9741",
-            "content": "",
-            "hasValidFrontmatter": null
-          }
-        ]
-      },
-      {
         "id": "bb435e88-0a2c-462b-802f-a94b9ff66cad",
-        "index": 10,
+        "index": 9,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:54.757Z",
         "lastEditedDateTime": "2024-03-30T08:08:19.206Z",
@@ -575,7 +536,7 @@
       },
       {
         "id": "20a7203f-2063-4a75-b739-4bfaa1b6e1e7",
-        "index": 11,
+        "index": 10,
         "sourceId": null,
         "creationDateTime": "2024-03-29T20:07:55.347Z",
         "lastEditedDateTime": "2024-03-30T08:18:31.064Z",
@@ -614,7 +575,7 @@
       },
       {
         "id": "e529d8f7-ee38-4ddf-ac9d-ec05dc040da3",
-        "index": 12,
+        "index": 11,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:35.468Z",
         "lastEditedDateTime": "2024-03-30T08:08:25.618Z",
@@ -653,7 +614,7 @@
       },
       {
         "id": "8eee5435-b584-47fd-a5ec-8031c8d4bca5",
-        "index": 13,
+        "index": 12,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:35.944Z",
         "lastEditedDateTime": "2024-03-30T08:09:25.861Z",
@@ -692,7 +653,7 @@
       },
       {
         "id": "537281e3-ab2e-4bec-a169-3468791a50d7",
-        "index": 14,
+        "index": 13,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.469Z",
         "lastEditedDateTime": "2024-03-30T08:21:02.085Z",
@@ -731,7 +692,7 @@
       },
       {
         "id": "1d70057d-47cc-4608-9963-f328e4bddca4",
-        "index": 15,
+        "index": 14,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.688Z",
         "lastEditedDateTime": "2024-03-30T08:21:38.418Z",
@@ -770,7 +731,7 @@
       },
       {
         "id": "01b010e5-4307-4137-a3db-1ce9bf8c46d2",
-        "index": 16,
+        "index": 15,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:36.906Z",
         "lastEditedDateTime": "2024-03-30T08:21:31.907Z",
@@ -809,7 +770,7 @@
       },
       {
         "id": "fe56ed1b-c029-441f-9439-6181e0493776",
-        "index": 17,
+        "index": 16,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:02:37.119Z",
         "lastEditedDateTime": "2024-03-30T09:00:36.749Z",
@@ -848,7 +809,7 @@
       },
       {
         "id": "674d6a9e-fd83-4ec4-b5a8-1cd7aa7bad32",
-        "index": 18,
+        "index": 17,
         "sourceId": null,
         "creationDateTime": "2024-03-30T08:20:52.209Z",
         "lastEditedDateTime": "2024-03-30T09:16:39.284Z",
@@ -887,7 +848,7 @@
       },
       {
         "id": "44cab086-1e20-4623-9e47-65e69c1f218d",
-        "index": 19,
+        "index": 18,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:16:48.639Z",
         "lastEditedDateTime": "2024-03-30T09:17:21.359Z",
@@ -926,7 +887,7 @@
       },
       {
         "id": "6f808314-fe91-44c0-9856-e96338724266",
-        "index": 20,
+        "index": 19,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:17:22.642Z",
         "lastEditedDateTime": "2024-03-30T09:18:44.617Z",
@@ -965,7 +926,7 @@
       },
       {
         "id": "28c89cc1-ffcf-4206-be03-7bc05d363af4",
-        "index": 21,
+        "index": 20,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:17:55.465Z",
         "lastEditedDateTime": "2024-03-30T09:19:56.204Z",
@@ -1004,7 +965,7 @@
       },
       {
         "id": "9fcd90b6-1fbb-465f-a8ee-1c737f31af1f",
-        "index": 22,
+        "index": 21,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:00.264Z",
         "lastEditedDateTime": "2024-03-30T09:20:32.684Z",
@@ -1043,7 +1004,7 @@
       },
       {
         "id": "ee65f9a5-5b95-43aa-b41b-f53e1bd18ac0",
-        "index": 23,
+        "index": 22,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:33.089Z",
         "lastEditedDateTime": "2024-03-30T09:21:46.990Z",
@@ -1082,7 +1043,7 @@
       },
       {
         "id": "ee89ef1c-b43f-4332-af83-100739488150",
-        "index": 24,
+        "index": 23,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:20:50.990Z",
         "lastEditedDateTime": "2024-03-30T09:25:30.407Z",
@@ -1121,7 +1082,7 @@
       },
       {
         "id": "cd9e347d-28b5-4abf-a048-d55c85a4a40e",
-        "index": 25,
+        "index": 24,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:25:18.706Z",
         "lastEditedDateTime": "2024-03-30T09:32:47.467Z",
@@ -1160,7 +1121,7 @@
       },
       {
         "id": "7daf53fd-2e40-4342-95f3-e3c53dcbcf66",
-        "index": 26,
+        "index": 25,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:32:48.127Z",
         "lastEditedDateTime": "2024-03-30T09:35:31.341Z",
@@ -1199,7 +1160,7 @@
       },
       {
         "id": "06e4e8c9-d7c3-4032-8d6b-03b9e3f49eec",
-        "index": 27,
+        "index": 26,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:35:47.286Z",
         "lastEditedDateTime": "2024-03-30T09:36:34.709Z",
@@ -1238,7 +1199,7 @@
       },
       {
         "id": "a78940fc-b1b4-476c-af0b-88b62cc28fce",
-        "index": 28,
+        "index": 27,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:36:35.708Z",
         "lastEditedDateTime": "2024-03-30T09:38:52.851Z",
@@ -1277,7 +1238,7 @@
       },
       {
         "id": "8d490de8-8a8b-42e7-9b04-b40400aa7a5b",
-        "index": 29,
+        "index": 28,
         "sourceId": null,
         "creationDateTime": "2024-03-30T09:39:11.406Z",
         "lastEditedDateTime": "2024-03-30T12:42:08.816Z",

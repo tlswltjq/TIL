@@ -29,7 +29,7 @@
         "id": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
         "sortDir": "asc",
         "isVisible": true,
-        "width": "140px",
+        "width": "101.90625px",
         "type": "number",
         "numberPrefix": "",
         "numberSuffix": "",
@@ -54,7 +54,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "172.1796875px",
-        "type": "creation-time",
+        "type": "date",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
@@ -77,12 +77,12 @@
         "id": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
         "sortDir": "default",
         "isVisible": true,
-        "width": "140px",
-        "type": "text",
+        "width": "91.90625px",
+        "type": "tag",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
-        "content": "New Column",
+        "content": "분류",
         "numberFormat": "number",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
@@ -90,7 +90,33 @@
         "hour12": true,
         "includeTime": false,
         "shouldWrapOverflow": true,
-        "tags": [],
+        "tags": [
+          {
+            "id": "ee4140bd-7650-4842-a54b-68513a4cbb81",
+            "content": "스터디",
+            "color": "yellow"
+          },
+          {
+            "id": "bb8cd97e-d30d-4136-bfc1-5f853adabc14",
+            "content": "프로젝트",
+            "color": "blue"
+          },
+          {
+            "id": "abfba012-c518-4bb2-9a47-cd6155971875",
+            "content": "자기개발",
+            "color": "gray"
+          },
+          {
+            "id": "200fc2c1-9dfb-42e0-a185-696a734cb18a",
+            "content": "과제제",
+            "color": "brown"
+          },
+          {
+            "id": "d9a99f4b-985b-4b49-8b6c-40e5bf146bab",
+            "content": "학교공부",
+            "color": "pink"
+          }
+        ],
         "calculationType": "none",
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
@@ -101,7 +127,7 @@
         "id": "5634b182-dba4-4300-a6fe-e442d7791de3",
         "sortDir": "default",
         "isVisible": true,
-        "width": "140px",
+        "width": "84.65625px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
@@ -167,14 +193,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "b492d00f-24f1-4269-b700-6b88497b992e",
+            "id": "3bcd5372-e4b5-4bcf-abb8-f18a2d0e6531",
             "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
             "hasValidFrontmatter": null
           },
           {
-            "id": "cc31aa34-8ed6-4a29-a9f4-3585facca43d",
+            "id": "f68f8b37-1cfa-41c6-bafd-eca1cc306deb",
             "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
-            "content": "",
+            "tagId": null,
             "hasValidFrontmatter": null
           },
           {
@@ -211,14 +238,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "f6f5f13e-cf70-431e-ba93-3c4663ecf7e8",
+            "id": "8339616d-85e5-4e1e-bac2-8c6c9dc5eee9",
             "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
             "hasValidFrontmatter": null
           },
           {
-            "id": "94027375-05ce-4a3e-8b93-f29b442f952c",
+            "id": "6378e0c5-7881-4b07-ba52-95ba235cedfd",
             "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
-            "content": "",
+            "tagId": null,
             "hasValidFrontmatter": null
           },
           {
@@ -255,14 +283,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "d713e9dd-7927-4b31-b59e-9c3ed4c2b839",
+            "id": "568bc308-fae5-4d06-b7e5-e61440e98133",
             "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
             "hasValidFrontmatter": null
           },
           {
-            "id": "d8364d20-7620-44a5-bfbc-51b1c7fb5da0",
+            "id": "8f8780cf-4c15-40a3-b528-9e0ff4b453ef",
             "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
-            "content": "",
+            "tagId": null,
             "hasValidFrontmatter": null
           },
           {
@@ -284,7 +313,7 @@
         "index": 3,
         "sourceId": null,
         "creationDateTime": "2024-03-29T08:13:32.709Z",
-        "lastEditedDateTime": "2024-03-30T08:14:45.747Z",
+        "lastEditedDateTime": "2024-04-02T13:00:51.188Z",
         "cells": [
           {
             "id": "fc3044a2-c4b6-44ad-819c-5ecb2a97ede3",
@@ -295,18 +324,19 @@
           {
             "id": "aba458ca-76f9-482d-8553-32fbe4d8759b",
             "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
-            "value": 2,
+            "value": 1,
             "hasValidFrontmatter": null
           },
           {
-            "id": "92ecb719-a7ca-4c3a-9160-f3792a27d8c5",
+            "id": "40bba299-4a2d-4400-86b8-e7b2c2e52c75",
             "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": "2024-04-01T06:36:04.291Z",
             "hasValidFrontmatter": null
           },
           {
-            "id": "50a01196-0522-4500-a81c-754bbb7f2242",
+            "id": "6d34afb9-32ab-4326-9533-3bbbb7105d79",
             "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
-            "content": "",
+            "tagId": "ee4140bd-7650-4842-a54b-68513a4cbb81",
             "hasValidFrontmatter": null
           },
           {
@@ -317,6 +347,366 @@
           },
           {
             "id": "78bf4431-135c-45cc-9289-e756538906cd",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "224c7581-2b09-4db5-8c04-6974c7fc03a3",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-04-01T05:18:47.095Z",
+        "lastEditedDateTime": "2024-04-01T06:33:04.080Z",
+        "cells": [
+          {
+            "id": "5bb6d36a-023c-4183-b9ff-672a33952fed",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "iam 유저 생성",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa5d358e-41a9-4a54-85dc-f31c475c4a51",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 1,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f6c1707b-3e26-4436-9060-469e937ad497",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3ec659c6-9805-460b-96be-16b26468ad24",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "bb8cd97e-d30d-4136-bfc1-5f853adabc14",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ee55e57c-0b96-4c06-9209-ff2f9e2aca7e",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "https://372235556837.signin.aws.amazon.com/console\nIAM_FOR_PROJECT \nyjp3_safecare",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "804f3e2a-8793-4c9c-a53f-c57d24bcbb95",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2e54fffa-2f5f-4f5e-aa50-3a607b1b2d26",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-04-01T05:18:53.429Z",
+        "lastEditedDateTime": "2024-04-03T07:45:13.831Z",
+        "cells": [
+          {
+            "id": "cc94ae97-db74-4f2b-a332-14a261ce2a64",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "알람화면 테이블 재구성",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "801e62a7-0878-4ec1-99b6-b4ca7a493b5a",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 1,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b42865db-46c6-40bb-a947-c36cd465e2e4",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": "2024-04-01T06:36:06.174Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "df93dc7b-d2e3-408d-bab6-f4a675d39a99",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "bb8cd97e-d30d-4136-bfc1-5f853adabc14",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca6a9192-c8e8-4632-a031-570c14a1af94",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8fdcf179-0566-4cff-82fa-914c76de27ed",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1fe51279-cc60-4aa0-ae3d-a1fb0401bc41",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-03-31T14:42:30.763Z",
+        "lastEditedDateTime": "2024-04-01T03:40:09.335Z",
+        "cells": [
+          {
+            "id": "4041ce4e-55a5-4029-b563-63c1004fdc23",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "프로젝트에 채팅 이미지 첨부 어떻게 할지 고민하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0b4260f-14d4-4623-a33b-a80b51dc7454",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 2,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e68ba8ca-f710-4047-97c9-560a7623d8be",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a3548c1d-b36b-44c8-a6e5-48d548a0a228",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8b8cbb66-3408-45fb-83c7-1bc27b87f899",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "크게는 사진전송 지원을 할거냐? 부터\n데이터베이스 테이블을 어떻게할거냐",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "701fb09a-6aea-444b-9eea-4a6df719f018",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5fd36a2c-073a-4ee2-bbaf-dc44d2bf0f84",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-04-02T01:06:55.364Z",
+        "lastEditedDateTime": "2024-04-02T16:00:10.443Z",
+        "cells": [
+          {
+            "id": "22e491c0-a7d2-4c8a-8356-a1284a653fd8",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "시스템 전반적 구성요소 배치하고 테스트하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a4ac089d-edce-47ee-ac2c-50d41b992b8b",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 2,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "275fdacf-8315-4303-8a0b-ec0fe592f213",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "772974cf-5d75-4b22-806a-ca59f1ab7698",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "bb8cd97e-d30d-4136-bfc1-5f853adabc14",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d42ef952-b571-410a-8449-ecd0b9b00ba1",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ace46c38-ca82-47cb-ba5b-6831869e2b9e",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "622ffe72-138e-4230-9bdf-99bcc3ecda05",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-04-02T15:59:55.367Z",
+        "lastEditedDateTime": "2024-04-02T16:00:20.783Z",
+        "cells": [
+          {
+            "id": "f7b7792e-6309-4edc-adff-86159cee3dd8",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "자료구조 과제하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2d525021-a1bf-4b25-892c-728f8833fef7",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 2,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d33dc4a-86cb-4f0a-9b69-ccc9b3f4d5db",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": "2024-04-02T16:00:20.783Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e91885b1-7e3f-460a-95de-f765f6a07fdc",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "200fc2c1-9dfb-42e0-a185-696a734cb18a",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "133d3aa6-64f8-423b-aa87-409947be6e22",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bd177891-a0e1-4c4e-b1d2-6ef93cd0743f",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "11401620-e2ce-4d31-9cc4-eace7a0bd5b9",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-04-03T01:38:00.255Z",
+        "lastEditedDateTime": "2024-04-03T02:16:03.523Z",
+        "cells": [
+          {
+            "id": "556e7176-f37c-4c6f-8314-30c2145ebbfd",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "코틀린 복습",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a053b56c-ac77-4db4-b358-3541ecfbc7ec",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 4,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7af67759-ee7f-435c-9c55-3758bf77e551",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3a2e0581-4c9b-4262-a968-fb2d43da208b",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "d9a99f4b-985b-4b49-8b6c-40e5bf146bab",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bd7a9ad4-f483-4bbe-8a27-afa1d5518e6d",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cb4a489-1e5d-412b-a71a-abf339ac19c5",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "54aeadb0-de60-4b35-99fc-51fdb693fe35",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-04-01T03:54:55.666Z",
+        "lastEditedDateTime": "2024-04-01T06:36:08.107Z",
+        "cells": [
+          {
+            "id": "083c5363-1e5e-4df0-b1e4-f1ef37479812",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "서류제출용 자소서 작성해보기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8a8a2342-bf59-41df-8077-b4463399cbba",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 5,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "35357178-4b26-4d51-a532-f8007f676031",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": "2024-04-01T06:36:08.107Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "23dde392-991a-48f1-90cc-60c6ca0cdb1d",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "abfba012-c518-4bb2-9a47-cd6155971875",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a704008b-26f4-4dce-b22f-ad9be22dce06",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9c14d60-56b1-4964-9cd5-a5e60b00554c",
+            "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cf6b8151-0413-4100-86ef-ce9ef8ed237b",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-04-04T08:22:57.768Z",
+        "lastEditedDateTime": "2024-04-04T08:23:09.777Z",
+        "cells": [
+          {
+            "id": "bed0e0d4-81ee-44ab-aa85-99245fb61952",
+            "columnId": "9905b5f0-185e-4a35-9c7a-529f68b71fe4",
+            "content": "tdd책 읽기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f72be517-40f3-49c9-8355-4c07873154a6",
+            "columnId": "f5d91597-8699-4c4a-95d0-1d4612733bf0",
+            "value": 5,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ad66b84-1b6b-4425-a0d6-63486edf535c",
+            "columnId": "dd18c40a-3699-4a3f-83a3-5165c13245b1",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d4ba0ad-8148-4ef7-8d79-479fa967f749",
+            "columnId": "d5321a3c-74d2-4a11-8bca-b0c965c6a978",
+            "tagId": "abfba012-c518-4bb2-9a47-cd6155971875",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ae0a7c3b-4dd8-403c-bddb-776232001ee9",
+            "columnId": "5634b182-dba4-4300-a6fe-e442d7791de3",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aedf4168-90db-48c2-9a6d-7bec52071b9d",
             "columnId": "a8377573-661b-4be3-a542-58795ef083ef",
             "value": false,
             "hasValidFrontmatter": null

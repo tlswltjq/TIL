@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a323baf285c8dfd",
+        "id": "ddbad1ab1551fca5",
         "type": "tabs",
         "children": [
           {
-            "id": "556718d1ed74c73f",
+            "id": "a46e5ff3582ee51b",
             "type": "leaf",
             "state": {
-              "type": "dataloom",
+              "type": "markdown",
               "state": {
-                "file": "할 일.loom"
-              }
-            }
-          },
-          {
-            "id": "2230804ca610a536",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "API리스트.loom"
+                "file": "SpringBoot/JPA/Persisting Entities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API리스트.loom",
+                "file": "SpringBoot/JPA/Persisting Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API리스트.loom",
+                "file": "SpringBoot/JPA/Persisting Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API리스트.loom"
+                "file": "SpringBoot/JPA/Persisting Entities.md"
               }
             }
           }
@@ -156,10 +147,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "2230804ca610a536",
+  "active": "a46e5ff3582ee51b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "API리스트.loom",
+    "SpringBoot/JPA/Persisting Entities.md",
+    "SpringBoot",
+    "2024_YJP프로젝트_safecare/API리스트.loom",
+    "SpringBoot/JPA",
+    "2024_YJP프로젝트_safecare",
     "할 일.loom",
     "api리스트.md",
     "READ-ME.md",
