@@ -1,1 +1,0 @@
-엔터티는 `CrudRepository.save()`메소드를
